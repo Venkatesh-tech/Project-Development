@@ -22,4 +22,3 @@ jobs:
           days_until_warning: 7
           days_until_unassign: 14
           stale_assignment_label: Open
-          
